@@ -7,7 +7,7 @@ int dictfacto(long int n){
     else if (n==1) { return 1; }
     else if (n==5) { return 120; }
     else if (n==10) { return 3628800; }
-            // this methos is very good.
+     
     // else if (n==15) { return ; }
     // else if (n==20) { return ; }
     // else if (n==25) { return ; }
@@ -39,4 +39,4 @@ int main(){
     
 return 0;
 }
-// its need a user defined datatype for big numbers.
+// its need a user defined datatype for large numbers.
